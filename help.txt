@@ -1,0 +1,23 @@
+Command Options:
+
+Any Movie name (e.g. Jurassic Park):
+    - if in the top 250 movies
+        - return the link to imdb page 
+    - if not
+        - exit or re-enter
+
+Genre
+    - return a bar chart of the total number of top 250 films in every Genre
+
+Director
+    - return a bar chart of directors who directed over 2 movies being the top 250 of all time
+
+Actor
+    - return a bar chart of stars who played in over 2 movies being the top 250 of all time
+
+Year
+    - return a bar chart of number of movies released every year
+
+Rated
+    - return a bar chart of the total number of top 250 films in every content rating
+
