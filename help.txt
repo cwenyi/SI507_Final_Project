@@ -1,6 +1,7 @@
 Command Options:
 
-Any Movie name (e.g. Jurassic Park):
+Any Movie name (e.g. Jurassic Park): 
+    - only applied to movie
     - if in the top 250 movies
         - return the link to imdb page 
     - if not
