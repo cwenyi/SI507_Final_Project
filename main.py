@@ -1,7 +1,4 @@
-
-
 enter = input("Please choose Movie or Drama: ")
-
 
 if enter.lower() == 'drama':
     import drama 
